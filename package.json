@@ -1,0 +1,24 @@
+{
+  "name": "ghgraph-bot69",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moinak878/ghGraph-bot69.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moinak878/ghGraph-bot69/issues"
+  },
+  "homepage": "https://github.com/moinak878/ghGraph-bot69#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "simple-git": "^2.39.0"
+  }
+}
